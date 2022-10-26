@@ -1,0 +1,76 @@
+GitHub Personal Code: git@github.com:LiAng2231/LiAng2231.git
+
+System development
+
+Project manager
+- Plan & coordinate
+- Ensure adequate rsources
+- Monitor the schedule
+
+Business analyst
+- Handles business & tech aspect
+- Interpret requirements
+- Explains technical constraints to user
+
+System analyst
+- Analyses the requirements of the users
+- Draws up specifications
+- Produces design doc
+
+Programmer
+
+Other tech staff
+- System administrators, operations manager, network admins, data admins, etc.
+
+Traditional way
+Advantages
+- Structured, help target setting, easy to manage, show staff which stage they are in, easier to integrate to new staff
+Disadvantages
+- Inflexible, does not allow modding.
+
+Waterfall way
+Advantages
+- Similar to traditional, verification and testing each phase (allow bugs to be identified early)
+Disadvantages
+- Documentation itself is not sufficient
+
+Work
+1. Analog
+2. Digitals
+3. Hybrids
+
+General Purpose
+- To perform variety of tasks when loaded with appropriate programs
+
+Special Purpose
+- Solve particular problems, do repetitive tasks
+
+Performance
+Super Computer:
+Heavy extremely intense and critical calculations
+
+Mainframe Computer:
+operating multiple users via single interface
+
+Mini Computer:
+Intermediate solutions between Mainframe and Micro Computers
+
+Micro Computer:
+Picture as computers having single chip micro processors.
+
+Types of personal computers
+1. Tower model
+2. Desktop model
+3. Notebook computer
+4. Laptop computer
+5. Handheld computer
+6. Palmtop
+7. PDA
+8. Smart phones
+
+Uses of computers
+1. Field of Education
+2. Field of Office
+3. Field of Medicine
+4. Field of Defence
+
